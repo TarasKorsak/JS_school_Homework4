@@ -1,5 +1,6 @@
 {
-  "name": "js_school_homework4",
+	"name": "js_school_homework4",
+	"homepage" : "http://taraskorsak.github.io/js_school_homework4/build",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
